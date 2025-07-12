@@ -1,0 +1,233 @@
+[
+  {
+    "bread": "Golden Retriever",
+    "nickname": "Buddy",
+    "origin": "United Kingdom",
+    "actualOrigin": "Scotland",
+    "hasPassport": true,
+    "vaccianted": true,
+    "description": "Friendly, intelligent, and devoted family dog.",
+    "category": "Dog",
+    "photo": "https://picsum.photos/seed/golden-retriever/320/240"
+  },
+  {
+    "bread": "Siamese Cat",
+    "nickname": "Luna",
+    "origin": "Thailand",
+    "actualOrigin": "Southeast Asia",
+    "hasPassport": false,
+    "vaccianted": true,
+    "description": "Vocal, social, and affectionate cat breed.",
+    "category": "Cat",
+    "photo": "https://picsum.photos/seed/siamese-cat/320/240"
+  },
+  {
+    "bread": "Holland Lop Rabbit",
+    "nickname": "Thumper",
+    "origin": "Netherlands",
+    "actualOrigin": "Utrecht Province",
+    "hasPassport": false,
+    "vaccianted": false,
+    "description": "Small, floppy-eared rabbit with gentle temperament.",
+    "category": "Rabbit",
+    "photo": "https://picsum.photos/seed/holland-lop-rabbit/320/240"
+  },
+  {
+    "bread": "Budgerigar",
+    "nickname": "Kiwi",
+    "origin": "Australia",
+    "actualOrigin": "Inland Australia",
+    "hasPassport": true,
+    "vaccianted": false,
+    "description": "Colorful and talkative small parakeet.",
+    "category": "Bird",
+    "photo": "https://picsum.photos/seed/budgerigar/320/240"
+  },
+  {
+    "bread": "Goldfish",
+    "nickname": "Flash",
+    "origin": "China",
+    "actualOrigin": "Yangtze River basin",
+    "hasPassport": false,
+    "vaccianted": false,
+    "description": "Popular freshwater aquarium fish with bright orange color.",
+    "category": "Fish",
+    "photo": "https://picsum.photos/seed/goldfish/320/240"
+  },
+  {
+    "bread": "Bearded Dragon",
+    "nickname": "Spike",
+    "origin": "Australia",
+    "actualOrigin": "Inland deserts",
+    "hasPassport": true,
+    "vaccianted": false,
+    "description": "Docile and hardy lizard known for its beard display.",
+    "category": "Reptile",
+    "photo": "https://picsum.photos/seed/bearded-dragon/320/240"
+  },
+  {
+    "bread": "Persian Cat",
+    "nickname": "Misty",
+    "origin": "Iran",
+    "actualOrigin": "Persia",
+    "hasPassport": false,
+    "vaccianted": true,
+    "description": "Long-haired, sweet-natured, and quiet lap cat.",
+    "category": "Cat",
+    "photo": "https://picsum.photos/seed/persian-cat/320/240"
+  },
+  {
+    "bread": "French Bulldog",
+    "nickname": "Gus",
+    "origin": "France",
+    "actualOrigin": "Paris",
+    "hasPassport": true,
+    "vaccianted": true,
+    "description": "Compact, muscular dog with bat-like ears.",
+    "category": "Dog",
+    "photo": "https://picsum.photos/seed/french-bulldog/320/240"
+  },
+  {
+    "bread": "German Shepherd",
+    "nickname": "Max",
+    "origin": "Germany",
+    "actualOrigin": "Thuringia",
+    "hasPassport": true,
+    "vaccianted": true,
+    "description": "Intelligent working dog with versatile talents.",
+    "category": "Dog",
+    "photo": "https://picsum.photos/seed/german-shepherd/320/240"
+  },
+  {
+    "bread": "Labrador Retriever",
+    "nickname": "Sadie",
+    "origin": "Canada",
+    "actualOrigin": "Newfoundland",
+    "hasPassport": true,
+    "vaccianted": true,
+    "description": "Friendly, outgoing, and high-spirited companion.",
+    "category": "Dog",
+    "photo": "https://picsum.photos/seed/labrador-retriever/320/240"
+  },
+  {
+    "bread": "Maine Coon",
+    "nickname": "Thor",
+    "origin": "United States",
+    "actualOrigin": "Maine",
+    "hasPassport": false,
+    "vaccianted": true,
+    "description": "One of the largest domesticated cat breeds, gentle giant.",
+    "category": "Cat",
+    "photo": "https://picsum.photos/seed/maine-coon/320/240"
+  },
+  {
+    "bread": "Bengal Cat",
+    "nickname": "Zara",
+    "origin": "United States",
+    "actualOrigin": "California",
+    "hasPassport": false,
+    "vaccianted": true,
+    "description": "Exotic look with leopard-like spots and energetic nature.",
+    "category": "Cat",
+    "photo": "https://picsum.photos/seed/bengal-cat/320/240"
+  },
+  {
+    "bread": "Cockatiel",
+    "nickname": "Sunny",
+    "origin": "Australia",
+    "actualOrigin": "Outback regions",
+    "hasPassport": true,
+    "vaccianted": false,
+    "description": "Affectionate bird known for its crest and whistling.",
+    "category": "Bird",
+    "photo": "https://picsum.photos/seed/cockatiel/320/240"
+  },
+  {
+    "bread": "African Grey Parrot",
+    "nickname": "Echo",
+    "origin": "Central Africa",
+    "actualOrigin": "Congo Basin",
+    "hasPassport": true,
+    "vaccianted": false,
+    "description": "Highly intelligent parrot famous for its speaking ability.",
+    "category": "Bird",
+    "photo": "https://picsum.photos/seed/african-grey-parrot/320/240"
+  },
+  {
+    "bread": "Syrian Hamster",
+    "nickname": "Nibbles",
+    "origin": "Syria",
+    "actualOrigin": "Aleppo Governorate",
+    "hasPassport": false,
+    "vaccianted": false,
+    "description": "Solitary and curious rodent, popular small pet.",
+    "category": "Rodent",
+    "photo": "https://picsum.photos/seed/syrian-hamster/320/240"
+  },
+  {
+    "bread": "Guinea Pig",
+    "nickname": "Pepper",
+    "origin": "Peru",
+    "actualOrigin": "Andes Mountains",
+    "hasPassport": false,
+    "vaccianted": false,
+    "description": "Social, gentle, and vocal small mammal.",
+    "category": "Rodent",
+    "photo": "https://picsum.photos/seed/guinea-pig/320/240"
+  },
+  {
+    "bread": "Ferret",
+    "nickname": "Bandit",
+    "origin": "Europe",
+    "actualOrigin": "Western Europe",
+    "hasPassport": true,
+    "vaccianted": false,
+    "description": "Playful and mischievous mustelid companion.",
+    "category": "Rodent",
+    "photo": "https://picsum.photos/seed/ferret/320/240"
+  },
+  {
+    "bread": "Standard Poodle",
+    "nickname": "Oscar",
+    "origin": "Germany",
+    "actualOrigin": "Central Germany",
+    "hasPassport": true,
+    "vaccianted": true,
+    "description": "Highly intelligent, hypoallergenic, and elegant dog.",
+    "category": "Dog",
+    "photo": "https://picsum.photos/seed/standard-poodle/320/240"
+  },
+  {
+    "bread": "Rottweiler",
+    "nickname": "Roxy",
+    "origin": "Germany",
+    "actualOrigin": "Rottweil",
+    "hasPassport": true,
+    "vaccianted": true,
+    "description": "Strong, loyal, and confident guardian breed.",
+    "category": "Dog",
+    "photo": "https://picsum.photos/seed/rottweiler/320/240"
+  },
+  {
+    "bread": "Boxer",
+    "nickname": "Rocky",
+    "origin": "Germany",
+    "actualOrigin": "Munich",
+    "hasPassport": true,
+    "vaccianted": true,
+    "description": "Energetic, fun-loving, and protective family dog.",
+    "category": "Dog",
+    "photo": "https://picsum.photos/seed/boxer/320/240"
+  },
+  {
+    "bread": "Dachshund",
+    "nickname": "Winston",
+    "origin": "Germany",
+    "actualOrigin": "Bavaria",
+    "hasPassport": true,
+    "vaccianted": true,
+    "description": "Distinctive long body, playful, and courageous.",
+    "category": "Dog",
+    "photo": "https://picsum.photos/seed/dachshund/320/240"
+  }
+  ]

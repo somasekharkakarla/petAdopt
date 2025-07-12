@@ -1,0 +1,6 @@
+export const SPLASH_SCREEN = 'SplashScreen'
+export const LOGIN_SCREEN = 'LoginScreen'
+export const HOME_SCREEN = 'HomeScreen'
+export const DETAIL_SCREEN = 'DetailScreen'
+export const ADDRESS_SCREEN = 'AddressScreen'
+export const PAYMENT_SCREEN = 'PaymentScreen'
